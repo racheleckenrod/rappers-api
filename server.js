@@ -16,10 +16,10 @@ const rappers = {
         'birthName': 'Chancelor Bennett', 
         'birthLocation': 'Chicago, Illinois'
     },
-    'fife dog': {
+    'phife dawg': {
         'age': '46, deceased',
         'birthName': 'Malik Izaak Taylor',
-        'birthLocation': ' Queens, New York City'
+        'birthLocation': 'Queens, New York City'
     },
     'dylan': {
         'age': 29,
