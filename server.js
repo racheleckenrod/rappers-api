@@ -16,11 +16,17 @@ const rappers = {
         'birthName': 'Chancelor Bennett', 
         'birthLocation': 'Chicago, Illinois'
     },
+    'fife dog': {
+        'age': '46, deceased',
+        'birthName': 'Malik Izaak Taylor',
+        'birthLocation': ' Queens, New York City'
+    },
     'dylan': {
         'age': 29,
         'birthName': 'Dylan', 
         'birthLocation': 'Dylan'
     },
+    
 }
 
 app.get('/', (request, response)=>{
